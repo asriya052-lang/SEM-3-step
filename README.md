@@ -1,3 +1,20 @@
+## Date: 26-09-2026
+
+**Today's Work:**
+- Completed Week 3 OOP Class Problems.
+- Completed Week 3 OOP Homework Assignment Problems.
+- Practiced classes and objects, constructors, encapsulation, reference copying, and static vs instance members.
+
+**Next Session Plan:**
+- Start Week 4 problems.
+
+**Issues Faced:**
+- No major issues.
+
+
+
+
+
 # Step_semester_3
 
 ## Date: 26-09-2026
