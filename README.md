@@ -1,3 +1,23 @@
+## Date: 27-09-2026
+
+**Today's Work:**
+- Completed Week 5 OOP practice problems.
+- Completed Week 5 OOP assignment problems.
+- Practiced access modifiers, protected cross-package access, encapsulation, JavaBeans, write-once and write-only properties, immutability, defensive copying, static blocks, instanceof, and null-safe batch processing.
+
+**Next Session Plan:**
+- Start Week 6 problems.
+
+**Issues Faced:**
+- Encountered a class-design conflict in the supplied BookingReceipt problem where the class was required to be both final and extended; handled it so the program remains compilable.
+
+
+
+
+
+
+
+
 ## Date: 26-09-2026
 
 **Today's Work:**
