@@ -1,6 +1,27 @@
 ## Date: 26-09-2026
 
 **Today's Work:**
+- Completed Week 4 OOP Class Problems.
+- Completed Week 4 OOP Assignment Problems.
+- Practiced constructor chaining using this(), the this keyword, final methods, static blocks, and instanceof.
+- Practiced arrays, loops, if-else logic, inheritance, and batch processing.
+
+**Next Session Plan:**
+- Start Week 5 problems.
+
+**Issues Faced:**
+- None.
+
+---
+
+
+
+
+
+
+## Date: 26-09-2026
+
+**Today's Work:**
 - Completed Week 3 OOP Class Problems.
 - Completed Week 3 OOP Homework Assignment Problems.
 - Practiced classes and objects, constructors, encapsulation, reference copying, and static vs instance members.
