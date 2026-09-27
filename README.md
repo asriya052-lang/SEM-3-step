@@ -1,6 +1,28 @@
 ## Date: 27-09-2026
 
 **Today's Work:**
+- Completed Week 7 abstract class and interface practice problems.
+- Completed Week 7 abstract class and interface assignment problems.
+- Practiced abstract classes, interfaces, multilevel inheritance, method overriding, method overloading, compile-time and runtime polymorphism, and type-based capability checks using instanceof.
+
+**Next Session Plan:**
+- Start Week 8 problems.
+
+**Issues Faced:**
+- None.
+
+---
+
+
+
+
+
+
+
+
+## Date: 27-09-2026
+
+**Today's Work:**
 - Completed Week 6 inheritance practice problems.
 - Completed Week 6 inheritance assignment problems.
 - Practiced single inheritance, multilevel inheritance, hierarchical inheritance, method overriding, super, instanceof, polymorphism, method overloading, final fields, static counters, defensive copying, and null-safe batch processing.
