@@ -1,6 +1,26 @@
 ## Date: 27-09-2026
 
 **Today's Work:**
+- Completed Week 6 inheritance practice problems.
+- Completed Week 6 inheritance assignment problems.
+- Practiced single inheritance, multilevel inheritance, hierarchical inheritance, method overriding, super, instanceof, polymorphism, method overloading, final fields, static counters, defensive copying, and null-safe batch processing.
+
+**Next Session Plan:**
+- Start Week 7 problems.
+
+**Issues Faced:**
+- None.
+
+---
+
+
+
+
+
+
+## Date: 27-09-2026
+
+**Today's Work:**
 - Completed Week 5 OOP practice problems.
 - Completed Week 5 OOP assignment problems.
 - Practiced access modifiers, protected cross-package access, encapsulation, JavaBeans, write-once and write-only properties, immutability, defensive copying, static blocks, instanceof, and null-safe batch processing.
